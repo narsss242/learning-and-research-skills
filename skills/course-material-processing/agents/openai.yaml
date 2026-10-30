@@ -1,0 +1,4 @@
+interface:
+  display_name: 课程资料整理｜录音、教材与课件
+  short_description: 核对课程来源与课表，整理录音原稿、教材章节、课件和可追溯的学习入口
+  default_prompt: 请用 $course-material-processing 处理我提供的材料，并按本次要求交付。

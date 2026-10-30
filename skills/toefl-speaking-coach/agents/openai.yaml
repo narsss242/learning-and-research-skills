@@ -1,0 +1,4 @@
+interface:
+  display_name: 托福口语采访｜框架与逐轮反馈
+  short_description: 针对新版托福采访练习提供功能框架和逐轮反馈，保留原意并区分官方要求
+  default_prompt: 请用 $toefl-speaking-coach 处理我提供的材料，并按本次要求交付。

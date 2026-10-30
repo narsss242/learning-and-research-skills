@@ -1,0 +1,5 @@
+# Adapted for portable sharing, 2026-10-30; see SOURCE.md.
+interface:
+  display_name: 论文精读卡｜16节证据分析
+  short_description: 把单篇论文整理成十六节精读卡，核对方法、实验、结论边界与可检验研究想法
+  default_prompt: 请用 $nature-paper-card 处理我提供的材料，并按本次要求交付。

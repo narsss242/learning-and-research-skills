@@ -1,0 +1,4 @@
+interface:
+  display_name: 学术报告排版｜Word与PDF
+  short_description: 整理报告正文、三线表、图表标题和原生可编辑公式，核对分页及数值一致性
+  default_prompt: 请用 $academic-report-format 处理我提供的材料，并按本次要求交付。

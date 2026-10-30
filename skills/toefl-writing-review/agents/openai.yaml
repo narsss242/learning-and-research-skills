@@ -1,0 +1,4 @@
+interface:
+  display_name: 托福写作批改｜邮件与学术讨论
+  short_description: 提供保留原意的基础修订和更自然的目标稿，区分语言纠错、内容缺口和建议
+  default_prompt: 请用 $toefl-writing-review 处理我提供的材料，并按本次要求交付。

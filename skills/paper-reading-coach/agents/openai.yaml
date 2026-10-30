@@ -1,0 +1,4 @@
+interface:
+  display_name: 论文精读教练｜术语、原图与证据
+  short_description: 带读一篇论文，解释概念、方法依赖、原图与实验证据，按回答调整阅读深度
+  default_prompt: 请用 $paper-reading-coach 处理我提供的材料，并按本次要求交付。

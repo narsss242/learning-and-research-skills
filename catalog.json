@@ -1,0 +1,57 @@
+[
+  {
+    "id": "paper-reading-coach",
+    "name": "论文精读教练｜术语、原图与证据",
+    "description": "带读一篇论文，解释概念、方法依赖、原图与实验证据，按回答调整阅读深度"
+  },
+  {
+    "id": "nature-reader",
+    "name": "论文全文中英对照｜图表与公式",
+    "description": "制作论文全文中英对照，保留图表、公式和来源锚点，并明确缺失及不确定内容"
+  },
+  {
+    "id": "nature-paper-card",
+    "name": "论文精读卡｜16节证据分析",
+    "description": "把单篇论文整理成十六节精读卡，核对方法、实验、结论边界与可检验研究想法"
+  },
+  {
+    "id": "paper-teaching-pages",
+    "name": "论文中文讲解页｜初学者版",
+    "description": "将论文和已有导读整理成中文静态学习网页，结合术语、原图与指标讲清方法"
+  },
+  {
+    "id": "course-material-processing",
+    "name": "课程资料整理｜录音、教材与课件",
+    "description": "核对课程来源与课表，整理录音原稿、教材章节、课件和可追溯的学习入口"
+  },
+  {
+    "id": "course-homework",
+    "name": "课程作业交付｜代码与汇报",
+    "description": "按本次课程要求制作可运行源码、真实结果和汇报材料，保留原始数据与旧版本"
+  },
+  {
+    "id": "academic-report-format",
+    "name": "学术报告排版｜Word与PDF",
+    "description": "整理报告正文、三线表、图表标题和原生可编辑公式，核对分页及数值一致性"
+  },
+  {
+    "id": "media-transcribe",
+    "name": "音视频转写校对｜原稿与发言人",
+    "description": "复用授权转写结果，保留逐句原稿、发言人和时间戳，并分开记录校对与总结"
+  },
+  {
+    "id": "toefl-speaking-coach",
+    "name": "托福口语采访｜框架与逐轮反馈",
+    "description": "针对新版托福采访练习提供功能框架和逐轮反馈，保留原意并区分官方要求"
+  },
+  {
+    "id": "toefl-writing-review",
+    "name": "托福写作批改｜邮件与学术讨论",
+    "description": "提供保留原意的基础修订和更自然的目标稿，区分语言纠错、内容缺口和建议"
+  },
+  {
+    "id": "transcribe-obsidian-images",
+    "name": "笔记图片转文字｜原位保留",
+    "description": "在Obsidian笔记原位置整理图片文字，保留原图与来源并标出识别不确定内容"
+  }
+]

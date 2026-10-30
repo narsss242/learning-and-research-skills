@@ -1,0 +1,5 @@
+# Adapted for portable sharing, 2026-10-30; see SOURCE.md.
+interface:
+  display_name: 论文全文中英对照｜图表与公式
+  short_description: 制作论文全文中英对照，保留图表、公式和来源锚点，并明确缺失及不确定内容
+  default_prompt: 请用 $nature-reader 处理我提供的材料，并按本次要求交付。

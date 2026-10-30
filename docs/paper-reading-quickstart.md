@@ -1,3 +1,5 @@
+> 新版已独立发布：请优先使用 [论文精读教练](https://github.com/narsss242/research-paper-reading-skill)，新调用名为 research-paper-reading-skill，仓库内有独立 ZIP 和安装说明。以下保留旧版使用方式，方便已有链接继续访问。
+
 # 发给同学：论文阅读快速上手
 
 推荐分享本页面的 GitHub 链接。可以在线看说明；要安装时下载 ZIP。仓库首页的 Code → Download ZIP 包含全部技能，`packages/paper-reading-kit.zip` 是只含论文阅读相关技能的轻量包。

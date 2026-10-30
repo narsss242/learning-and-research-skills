@@ -1,0 +1,167 @@
+[
+  {
+    "old": "paper-reading-coach",
+    "id": "research-paper-reading-skill",
+    "title": "论文精读教练",
+    "description": "Research paper reading coach: terminology, original figures, methods and evidence in Chinese. 论文精读教练。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "paper-reading",
+      "academic-research",
+      "research-papers",
+      "education"
+    ],
+    "url": "https://github.com/narsss242/research-paper-reading-skill"
+  },
+  {
+    "old": "nature-reader",
+    "id": "academic-paper-translation-skill",
+    "title": "学术论文中英对照翻译",
+    "description": "Academic paper translation: bilingual Chinese-English reading with figures, equations and source locations. 学术论文中英对照翻译。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "paper-translation",
+      "academic-research",
+      "translation",
+      "pdf"
+    ],
+    "url": "https://github.com/narsss242/academic-paper-translation-skill"
+  },
+  {
+    "old": "nature-paper-card",
+    "id": "research-paper-analysis-skill",
+    "title": "论文精读卡与证据分析",
+    "description": "Research paper analysis: a structured 16-section reading card covering methods, experiments, evidence and limitations. 论文精读卡与证据分析。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "paper-analysis",
+      "academic-research",
+      "paper-reading",
+      "scientific-literature"
+    ],
+    "url": "https://github.com/narsss242/research-paper-analysis-skill"
+  },
+  {
+    "old": "paper-teaching-pages",
+    "id": "paper-explainer-webpage-skill",
+    "title": "论文导读网页生成",
+    "description": "Research paper explainer: build beginner-friendly Chinese HTML learning pages with original figures and method diagrams. 论文导读网页生成。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "paper-reading",
+      "html",
+      "education",
+      "visualization"
+    ],
+    "url": "https://github.com/narsss242/paper-explainer-webpage-skill"
+  },
+  {
+    "old": "course-material-processing",
+    "id": "lecture-notes-organizer-skill",
+    "title": "课程笔记与学习资料整理",
+    "description": "Lecture notes organizer: connect recordings, transcripts, slides and textbooks into traceable study materials. 课程笔记与学习资料整理。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "lecture-notes",
+      "study-notes",
+      "education",
+      "knowledge-management"
+    ],
+    "url": "https://github.com/narsss242/lecture-notes-organizer-skill"
+  },
+  {
+    "old": "course-homework",
+    "id": "programming-homework-assistant-skill",
+    "title": "编程与数据分析作业助手",
+    "description": "Programming homework assistant: runnable code, data analysis, authentic results and concise course reports. 编程与数据分析作业助手。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "programming",
+      "data-analysis",
+      "education",
+      "homework"
+    ],
+    "url": "https://github.com/narsss242/programming-homework-assistant-skill"
+  },
+  {
+    "old": "academic-report-format",
+    "id": "academic-report-formatting-skill",
+    "title": "学术报告 Word 与 PDF 排版",
+    "description": "Academic report formatting for Word and PDF: editable equations, tables, captions and page-layout checks. 学术报告 Word 与 PDF 排版。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "academic-writing",
+      "docx",
+      "pdf",
+      "document-formatting"
+    ],
+    "url": "https://github.com/narsss242/academic-report-formatting-skill"
+  },
+  {
+    "old": "media-transcribe",
+    "id": "audio-video-transcription-skill",
+    "title": "音视频转写与校对",
+    "description": "Audio and video transcription workflow: timestamps, speaker attribution, source preservation and transcript proofreading. 音视频转写与校对。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "transcription",
+      "audio",
+      "video",
+      "speech-to-text"
+    ],
+    "url": "https://github.com/narsss242/audio-video-transcription-skill"
+  },
+  {
+    "old": "toefl-speaking-coach",
+    "id": "toefl-speaking-practice-skill",
+    "title": "托福口语采访练习",
+    "description": "TOEFL speaking interview practice: response frameworks, turn-by-turn feedback and meaning-preserving corrections. 托福口语采访练习。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "toefl",
+      "speaking-practice",
+      "english-learning",
+      "language-learning"
+    ],
+    "url": "https://github.com/narsss242/toefl-speaking-practice-skill"
+  },
+  {
+    "old": "toefl-writing-review",
+    "id": "toefl-writing-feedback-skill",
+    "title": "托福写作批改与反馈",
+    "description": "TOEFL writing feedback for email and academic discussion: grammar corrections, content analysis and improved drafts. 托福写作批改与反馈。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "toefl",
+      "writing-feedback",
+      "english-learning",
+      "academic-writing"
+    ],
+    "url": "https://github.com/narsss242/toefl-writing-feedback-skill"
+  },
+  {
+    "old": "transcribe-obsidian-images",
+    "id": "obsidian-image-ocr-skill",
+    "title": "Obsidian 图片转文字",
+    "description": "Obsidian image OCR workflow: transcribe and proofread images in Markdown notes while preserving originals and source links. Obsidian 图片转文字。Agent skill for Codex and compatible assistants.",
+    "topics": [
+      "agent-skills",
+      "codex-skills",
+      "obsidian",
+      "ocr",
+      "markdown",
+      "note-taking"
+    ],
+    "url": "https://github.com/narsss242/obsidian-image-ocr-skill"
+  }
+]

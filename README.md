@@ -1,3 +1,29 @@
+# 学习与科研 Agent Skills｜独立仓库导航
+
+11个技能已经分别更名并独立发布，每个仓库有自己的用途说明、安装包和使用示例。
+
+**发给同学读论文，直接分享 [论文精读教练](https://github.com/narsss242/research-paper-reading-skill)。**
+
+| 用途 | 独立仓库与新调用名 | 原调用名 |
+|---|---|---|
+| 论文精读教练 | [research-paper-reading-skill](https://github.com/narsss242/research-paper-reading-skill) | `paper-reading-coach` |
+| 学术论文中英对照翻译 | [academic-paper-translation-skill](https://github.com/narsss242/academic-paper-translation-skill) | `nature-reader` |
+| 论文精读卡与证据分析 | [research-paper-analysis-skill](https://github.com/narsss242/research-paper-analysis-skill) | `nature-paper-card` |
+| 论文导读网页生成 | [paper-explainer-webpage-skill](https://github.com/narsss242/paper-explainer-webpage-skill) | `paper-teaching-pages` |
+| 课程笔记与学习资料整理 | [lecture-notes-organizer-skill](https://github.com/narsss242/lecture-notes-organizer-skill) | `course-material-processing` |
+| 编程与数据分析作业助手 | [programming-homework-assistant-skill](https://github.com/narsss242/programming-homework-assistant-skill) | `course-homework` |
+| 学术报告 Word 与 PDF 排版 | [academic-report-formatting-skill](https://github.com/narsss242/academic-report-formatting-skill) | `academic-report-format` |
+| 音视频转写与校对 | [audio-video-transcription-skill](https://github.com/narsss242/audio-video-transcription-skill) | `media-transcribe` |
+| 托福口语采访练习 | [toefl-speaking-practice-skill](https://github.com/narsss242/toefl-speaking-practice-skill) | `toefl-speaking-coach` |
+| 托福写作批改与反馈 | [toefl-writing-feedback-skill](https://github.com/narsss242/toefl-writing-feedback-skill) | `toefl-writing-review` |
+| Obsidian 图片转文字 | [obsidian-image-ocr-skill](https://github.com/narsss242/obsidian-image-ocr-skill) | `transcribe-obsidian-images` |
+
+查看 [命名依据与迁移说明](docs/independent-skills.md)。本仓库旧 skills/ 路径和下载包保留供已有链接使用，后续更新以各独立仓库为准。新旧调用名不要同时安装。
+
+---
+
+## 旧版集合（兼容保留）
+
 # 学习与科研 Skills
 
 把实际使用中整理的学习方法和论文阅读工作流放在一起，提供清晰的中文入口、使用边界和安装说明。以课程学习、论文理解、原图讲解和可追溯材料为主。
